@@ -1,0 +1,2 @@
+Uruchom kontener o nazwie `tomcat` z tomcat w wersji `jdk8-openjdk-slim`, który będzie dostępny pod adresem `localhost:8092`
+Podmontuj plik `index.html` do katalogu `/usr/local/tomcat/webapps/ROOT/` w kontenerze
